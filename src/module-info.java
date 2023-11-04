@@ -1,0 +1,2 @@
+module WORK_JAVA {
+}

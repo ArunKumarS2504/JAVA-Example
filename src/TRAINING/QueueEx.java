@@ -18,8 +18,10 @@ public class QueueEx {
 		
 		
 		System.out.println(queue);
-		queue.retainAll(queue);
-		System.out.println(queue.retainAll(queue));
+		//queue.retainAll(queue);
+		//System.out.println(queue.retainAll(queue));
+		queue.clear();
+		
 	}
 
 }
